@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Diego\'s GitHub Search</string>
+
+    <string name="search_title">Search here</string>
+
+    <string name="error_message">Error, maybe try again?</string>
+    <string name="avatar_image_description">Owner\'s avatar</string>
+
+</resources>
